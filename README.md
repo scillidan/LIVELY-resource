@@ -17,7 +17,7 @@ resource of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Eng
 - [ ] upload to https://steamcommunity.com/workshop/
 - [ ] upload `.csv` that containing metadata
 - [ ] how `curl csv`
-- [ ] how download, [gh-download](https://github.com/yuler/gh-download) or ..
-- [ ] clean up redundant commit history
-- [ ] maybe use `postcss` to adapt to the Windows10 desktop task-bar
-- [ ] introduce some tools
+- [ ] how download single, [gh-download](https://github.com/yuler/gh-download) or ..
+- [ ] clean up redundant commit history ?
+- [ ] learn, then use `postcss` to adapt to the Windows10 desktop task-bar ?
+- [ ] introduce some tools ?
