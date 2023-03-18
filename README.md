@@ -11,7 +11,8 @@ resource of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Eng
 ## to-do
 
 - [x] add local files of web-wallpaper to this repo, declare `fork`` relationship
-- [ ] proof and add `## how use` sub-REAMDE file
+- [ ] add and proof `## use` sub-REAMDE
+- [ ] add the necessary instructions to `## license`
 - [ ] add preview-picture
 - [ ] upload to https://steamcommunity.com/workshop/
 - [ ] upload `.csv` that containing metadata
