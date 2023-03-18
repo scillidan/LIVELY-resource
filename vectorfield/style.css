@@ -1,0 +1,44 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/roboto-mono.min.css");
+
+body, html {
+  overflow: hidden;
+  height: 100%;
+  background: #000;
+  font-family: 'Roboto Mono';
+}
+#pt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -250px;
+  margin-left: -250px;
+  width: 500px;
+  height: 500px;
+}
+#about {
+  position: absolute;
+  z-index: 100;
+  left: 40px;
+  bottom: 40px;
+  color: #fff;
+  font-size: 11px;
+  text-align: left;
+}
+a, a:visited {
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 0 1px 0 #fff;
+}
+a:hover, a:visited:hover {
+  box-shadow: none;
+}
+@media (max-width : 730px) {
+  #pt {
+    position: static;
+    margin: 0;
+  }
+  #about {
+    left: 20px;
+    bottom: 20px;
+  }
+}
