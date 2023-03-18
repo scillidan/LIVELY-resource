@@ -4,3 +4,21 @@
 [submodule "mortem"]
 	path = mortem
 	url = https://gitlab.com/scillidan1/mortem
+[submodule "Gaea"]
+	path = Gaea
+	url = https://github.com/scillidan/Gaea
+[submodule "Letnice"]
+	path = Letnice
+	url = https://github.com/scillidan/Letnice
+[submodule "ivy"]
+	path = ivy
+	url = https://gitlab.com/scillidan1/ivy
+[submodule "hexy"]
+	path = hexy
+	url = https://gitlab.com/scillidan1/hexy
+[submodule "orrery"]
+	path = orrery
+	url = https://gitlab.com/scillidan1/orrery
+[submodule "bakemonogatari"]
+	path = bakemonogatari
+	url = https://github.com/scillidan/bakemonogatari

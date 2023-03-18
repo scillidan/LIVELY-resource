@@ -1,6 +1,6 @@
 # LIVELY-resource
 
-resource of lively and wallpaperengine
+resource of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/)
 
 ## note
 
@@ -10,8 +10,13 @@ resource of lively and wallpaperengine
 
 ## to-do
 
-- [ ] re-add source of web-wallpaper to this repo
-- [ ] re-write .csv
-- [ ] write about `curl` csv
-- [ ] add preview picture
+- [x] add local files of web-wallpaper to this repo, declare `fork`` relationship
+- [ ] proof and add `## how use` sub-REAMDE file
+- [ ] add preview-picture
+- [ ] upload to https://steamcommunity.com/workshop/
+- [ ] upload `.csv` that containing metadata
+- [ ] how `curl csv`
+- [ ] how download, [gh-download](https://github.com/yuler/gh-download) or ..
+- [ ] clean up redundant commit history
 - [ ] maybe use `postcss` to adapt to the Windows10 desktop task-bar
+- [ ] introduce some tools
