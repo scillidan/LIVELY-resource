@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="author" content="avanier" />
+<meta name="description" content="jar of marbles" />
+<title>marbles</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/inter.css">
+<link rel="icon" href="data:," />
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        user-select: none;
+    }
+    html, body {
+        height: 100%;
+    }
+    body {
+        display: grid;
+        background-color: #030303;
+        color: #e4e4e4;
+        width: 100%;
+        padding: 3.33em;
+        font: 1rem/1.62 "Inter", sans-serif;
+    }
+    pre {
+        place-self: center;
+        font: 1rem/1 "Inter", monospace;
+    }
+    p {
+        color: red;
+    }
+</style>
+<body>
+    <noscript><p>javascript is required to calculate marbles based on your birthdate and the current date</p></noscript>
+    <pre id="jar"></pre>
+    <script>
+        const BIRTHDATE = new Date("1992-10-13");
+        const lifeExpectancy = 70 * 52;
+        const weeks = Math.floor(Math.abs((+BIRTHDATE - new Date()) / 6048e5));
+
+        let marbles = "";
+        for (let i = 1; i <= lifeExpectancy; i++) {
+            marbles += i < weeks ? "\u25cf" : "\u25cb";
+            if (i % 52 === 0) marbles += "\n";
+        }
+
+        jar.innerHTML = marbles;
+    </script>
+</body>
