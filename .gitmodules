@@ -19,9 +19,6 @@
 [submodule "orrery"]
 	path = orrery
 	url = https://gitlab.com/scillidan1/orrery
-[submodule "bakemonogatari-html"]
-	path = bakemonogatari-html
-	url = https://github.com/scillidan/bakemonogatari-html
 [submodule "karanokyoukai-html"]
 	path = karanokyoukai-html
 	url = https://github.com/scillidan/karanokyoukai-html
