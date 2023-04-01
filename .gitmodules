@@ -22,3 +22,6 @@
 [submodule "karanokyoukai-html"]
 	path = karanokyoukai-html
 	url = https://github.com/scillidan/karanokyoukai-html
+[submodule "bakemonogatari-html"]
+	path = bakemonogatari-html
+	url = https://github.com/scillidan/bakemonogatari-html
