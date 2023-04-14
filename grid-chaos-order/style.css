@@ -1,0 +1,14 @@
+body {
+    display: block;
+    margin: 0;
+}
+body:after {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: hsla(180,0%,50%,0.25);
+    pointer-events: none;
+}
