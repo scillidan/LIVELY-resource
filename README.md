@@ -29,11 +29,11 @@ curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/data.
 - [x] add local files of web-wallpaper to this repo, declare `fork`` relationship
 - [x] add `.csv` that containing metadata
 - [x] add preview-picture
+- [x] upload to https://steamcommunity.com/workshop/
 - [ ] how download single, [gh-download](https://github.com/yuler/gh-download) or ..
-- [ ] upload to https://steamcommunity.com/workshop/
 - [ ] see https://docs.wallpaperengine.io/en/web/overview.html?
-- [ ] how automatically track upstream updates?
-- [ ] Make some adjustments on muser, about window and mouse. change the source of the audio file
+- [ ] how automatically track repo's upstream updates?
+- [ ] make some adjustments on muser, about window and mouse. change the source of the audio file
 
 ## Note
 
