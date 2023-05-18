@@ -1,11 +1,28 @@
 # LIVELY-resource
 
-![](stipple_cats.gif)
+![](_media/stipple_cats.gif)
 
 resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
 I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no CDN), colors, etc.  
 See [metadata.md](metadata.md) to get more information about the source, author and license etc. **It's important.**  
 See [data.md](data.md) to see download links and other data.
+
+## Witchcraft 🧙
+
+```cmd
+curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/data.md ^
+  | sd "\[\D+\]\(" "" ^
+  | sd "(\)\|\[)" "|[" ^
+  | sd "\[\d{10}\]\(" "" ^
+  | sd "(\)\|!\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
+  | mdtable2csv ^
+  | sd "//gi" "https://gi" ^
+  | sd "//steamc" "https://steamc" ^
+  | xsv select source,lively,wallpapeng ^
+  | csview
+```
+
+![](_media/LIVELY-resource.png)
 
 ## Todo
 
