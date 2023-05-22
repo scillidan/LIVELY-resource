@@ -25,3 +25,6 @@
 [submodule "bakemonogatari-html"]
 	path = bakemonogatari-html
 	url = https://github.com/scillidan/bakemonogatari-html
+[submodule "grass"]
+	path = grass
+	url = https://github.com/scillidan/grass
