@@ -4,7 +4,7 @@
 |![](_media/0x40-web.png)|[0x40-web](//github.com/mon/0x40-web)|[mon](//github.com/mon)|[mit](//github.com/mon/0x40-web/blob/master/LICENSE)|
 |![](_media/karanokyoukai-html_01.png)|[ImageTrailEffects](//github.com/codrops/ImageTrailEffects)|[codrops](//tympanus.net/codrops)|[see #license](//github.com/codrops/ImageTrailEffects)|
 |![](_media/bakemonogatari-html.png)|[GridRevealEffects](//github.com/codrops/GridRevealEffects)|[codrops](//tympanus.net/codrops)|[see #license](//github.com/codrops/GridRevealEffects)|
-|![](_media/grass.png)|[](//github.com/neundex/AudioBasedImageDistortion)|[codrops](//tympanus.net/codrops)|[see #license](//github.com/neundex/AudioBasedImageDistortion)|
+|![](_media/grass.png)|[AudioBasedImageDistortion](//github.com/neundex/AudioBasedImageDistortion)|[codrops](//tympanus.net/codrops)|[see #license](//github.com/neundex/AudioBasedImageDistortion)|
 |![](_media/duskwave.png)|[duskwave](//gist.github.com/mandynicole/f6c1c3083dd5dbb6606bd832f97a10c4)|[mandynicole](//github.com/mandynicole)|[no license](//choosealicense.com/no-permission)|
 |![](_media/vectorfield.png)|[vectorfield](//github.com/tofuness/eex/tree/master/vectorfield)|[DENNIS JIN](//dennisjin.com)|[mit](//github.com/tofuness/eex/blob/master/LICENSE)|
 |![](_media/satoshi_01.png)|[satoshi](//github.com/tofuness/eex/tree/master/satoshi)|[DENNIS JIN](//dennisjin.com)|[mit](//github.com/tofuness/eex/blob/master/LICENSE)|
