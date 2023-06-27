@@ -2,8 +2,8 @@
 
 ![](_media/stipple_cats.gif)
 
-resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
-I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no CDN), colors, etc.  
+Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
+I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no google-tag, etc...), colors, etc.  
 See [data.md](data.md) to get download links and other data.  
 See [metadata.md](metadata.md) to get more information about the source, author and license etc.
 
