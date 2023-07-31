@@ -1,4 +1,4 @@
-| source | author | license | note | preview |
+| source | author | license | preview | note |
 | --- | --- | --- | --- | --- |
 | [muser](//github.com/jonshamir/muser) | [Jon Shamir](//jonshamir.com) | [mit](//github.com/jonshamir/muser/blob/master/LICENSE.md) | ![](_media/muser.png) |  |
 | [0x40-web](//github.com/mon/0x40-web) | [mon](//github.com/mon) | [mit](//github.com/mon/0x40-web/blob/master/LICENSE) | ![](_media/0x40-web.png) |  |

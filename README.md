@@ -18,7 +18,7 @@ See [resource.md](resource.md) to get download links.
 ## Witchcraft 🧙
 
 ```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/table.md ^
+curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/resource.md ^
   | sd "\[\D+\]\(" "" ^
   | sd "(\)\|\[)" "|[" ^
   | sd "\[\d{10}\]\(" "" ^
