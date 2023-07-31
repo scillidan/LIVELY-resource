@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2022 scillidan (https://codepen.io/scillidan/pen/NWMwzoo)
+Copyright (c) 2022 scillidan (https://codepen.io/EntropyReversed/pen/YBEwXV)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

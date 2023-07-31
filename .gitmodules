@@ -28,3 +28,6 @@
 [submodule "grass"]
 	path = grass
 	url = https://github.com/scillidan/grass
+[submodule "bellwoods"]
+	path = bellwoods
+	url = https://github.com/mattdesl/bellwoods

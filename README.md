@@ -1,11 +1,11 @@
 # LIVELY-resource
 
-![](_media/stipple_cats.gif)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=atom&color=222222&logo=RSS&logoColor=FFA500&label=)](https://github.com/scillidan/LIVELY-resource/commits/main.atom)
 
 Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
 I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no google-tag, etc...), colors, etc.  
-See [data.md](data.md) to get download links and other data.  
-See [metadata.md](metadata.md) to get more information about the source, author and license etc.
+See [table.md](table.md) to get preview, source, author, license, notes.  
+See [resource.md](resource.md) to get download links.
 
 ## Tools
 
@@ -15,27 +15,10 @@ See [metadata.md](metadata.md) to get more information about the source, author 
 - [HTTrack](https://www.httrack.com/)
 - ...
 
-## Notes
-
-1. fork a repository as submodule
-2. goto local repository
-3. git submodule add .url
-
-## Todo
-
-- [x] add local files of web-wallpaper to this repo, declare `fork`` relationship
-- [x] add `.csv` that containing metadata
-- [x] add preview-picture
-- [x] upload to https://steamcommunity.com/workshop/
-- [ ] how download single, [gh-download](https://github.com/yuler/gh-download) or ..
-- [ ] see https://docs.wallpaperengine.io/en/web/overview.html?
-- [ ] how automatically track repo's upstream updates?
-- [ ] make some adjustments on muser, about window and mouse. change the source of the audio file
-
 ## Witchcraft 🧙
 
 ```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/data.md ^
+curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/table.md ^
   | sd "\[\D+\]\(" "" ^
   | sd "(\)\|\[)" "|[" ^
   | sd "\[\d{10}\]\(" "" ^

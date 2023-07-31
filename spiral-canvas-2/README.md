@@ -1,4 +1,3 @@
 # Spiral Canvas 2
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/scillidan/pen/gOzXKRo](https://codepen.io/scillidan/pen/gOzXKRo).
-
+A Pen created on CodePen.io. Original URL: [https://codepen.io/EntropyReversed/pen/OJjMaeP](https://codepen.io/EntropyReversed/pen/OJjMaeP).
