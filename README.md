@@ -30,4 +30,4 @@ curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/resou
   | csview
 ```
 
-![](/LIVELY-resource.png)
+![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/LIVELY-resource_cmd.png)
