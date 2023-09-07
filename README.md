@@ -2,9 +2,9 @@
 
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=atom&color=222222&logo=RSS&logoColor=FFA500&label=)](https://github.com/scillidan/LIVELY-resource/commits/main.atom)
 
-Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
-I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no google-tag, etc...), colors, etc.  
-See [table.md](table.md). And [here](_readme/) are some notes.
+Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/). I collect them occasionally. I have made some minor changes, like no-google-tag, fonts, colors, etc.  
+See [table.md](table.md).  
+And [here](_readme/) are some notes.
 
 ## Tools
 
@@ -12,21 +12,7 @@ See [table.md](table.md). And [here](_readme/) are some notes.
 - [JsPrettier](https://github.com/jonlabelle/SublimeJsPrettier)
 - [miniserve](https://github.com/svenstaro/miniserve)
 - [HTTrack](https://www.httrack.com/)
-- ...
 
-## Witchcraft 🧙
+## Attribution
 
-```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/LIVELY-resource/main/resource.md ^
-  | sd "\[\D+\]\(" "" ^
-  | sd "(\)\|\[)" "|[" ^
-  | sd "\[\d{10}\]\(" "" ^
-  | sd "(\)\|!\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
-  | mdtable2csv ^
-  | sd "//gi" "https://gi" ^
-  | sd "//steamc" "https://steamc" ^
-  | xsv select source,lively,wallpapeng ^
-  | csview
-```
-
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/LIVELY-resource_cmd.png)
+Content of `README.md`, `table.md` licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
