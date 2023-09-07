@@ -1,0 +1,1 @@
+Install [Inter](https://rsms.me/inter) font.

@@ -4,8 +4,7 @@
 
 Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/).  
 I collect them occasionally. I have made some minor changes in some resources, mainly for offline use (no google-tag, etc...), colors, etc.  
-See [table.md](table.md) to get preview, source, author, license, notes.  
-See [resource.md](resource.md) to get download links.
+See [table.md](table.md). And [here](_readme/) are some notes.
 
 ## Tools
 
