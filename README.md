@@ -4,6 +4,8 @@ Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper En
 See [table.md](table.md).  
 And [here](_readme/) are some notes.
 
+If you use lively, use [gitzip](https://github.com/KinoLien/gitzip) to download single folder.
+
 ## Tools
 
 - [Sublime Text](https://www.sublimetext.com)

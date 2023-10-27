@@ -31,3 +31,6 @@
 [submodule "bellwoods"]
 	path = bellwoods
 	url = https://github.com/mattdesl/bellwoods
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/scillidan/cfr
