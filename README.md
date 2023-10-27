@@ -1,10 +1,8 @@
 # LIVELY-resource
 
 Resources of [lively](https://github.com/rocksdanister/lively) and [Wallpaper Engine](https://www.wallpaperengine.io/). I collect them occasionally. I have made some minor changes, like no-google-tag, fonts, colors, etc.  
-See [table.md](table.md).  
+See [table.md](table.md). Use [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en) to preview. If you use lively, use [gitzip](https://github.com/KinoLien/gitzip) to download single folder.  
 And [here](_readme/) are some notes.
-
-If you use lively, use [gitzip](https://github.com/KinoLien/gitzip) to download single folder.
 
 ## Tools
 
