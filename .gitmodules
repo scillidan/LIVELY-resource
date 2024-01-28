@@ -1,6 +1,3 @@
-[submodule "0x40-web"]
-	path = 0x40-web
-	url = https://github.com/scillidan/0x40-web
 [submodule "mortem"]
 	path = mortem
 	url = https://gitlab.com/scillidan1/mortem
