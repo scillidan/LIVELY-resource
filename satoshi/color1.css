@@ -1,0 +1,52 @@
+mark {
+  background: #ff0;
+  color: #000;
+}
+fieldset {
+  border: 1px solid silver;
+}
+html {
+  background: #f8f8f8;
+}
+html.inverted {
+  background: #1c1b1f;
+}
+#input {
+  color: #45fff6;
+}
+#title,
+#title:visited {
+  color: #45fff6;
+}
+#border {
+  border: 2px solid #1c1b1f;
+}
+#play {
+  color: #f8f8f8;
+  background: #000;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
+}
+#play:hover {
+  box-shadow: 0 15px 32px rgba(0, 0, 0, 0.3);
+}
+#play:active {
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+html.inverted #play {
+  color: #45fff6;
+  border: 2px solid #45fff6;
+}
+#about {
+  color: #000;
+}
+html.inverted #about {
+  color: #45fff6;
+}
+#about a,
+#about a:visited {
+  color: #000;
+}
+html.inverted #about a,
+html.inverted #about a:visited {
+  color: #45fff6;
+}

@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: url("img/2560_Composite_of_the_Moon,_variant_01.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+body.hide-background {
+  background: url("img/2560_Composite_of_the_Moon,_variant_02.jpg");
+}
+
+canvas {
+  display: block;
+}

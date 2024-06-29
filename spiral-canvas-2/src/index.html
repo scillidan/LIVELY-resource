@@ -1,0 +1,155 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/stats.js/r11/Stats.min.js"></script>
+
+<div class="spiral-wrap"></div>
+
+<h5 class="segments-count">Number of Segments: <span>0</span></h5>
+<h5 class="rings-count">Number of Rings: <span>0</span></h5>
+
+<div class="inputs-wrap">
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="number-of-segments calcOffS" 
+      type="range" 
+      min="10" 
+      max="30" 
+      step="1" 
+      value="20"
+    >
+      Starting Number of Segments
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap calcOffS">
+    <input 
+      class="segment-radius" 
+      type="range" 
+      min="2" 
+      max="6" 
+      step="1" 
+      value="2"
+    >
+      Segment Radius
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap calcOffS">
+    <input 
+      class="segment-repetition" 
+      type="range" 
+      min="1" 
+      max="4" 
+      step="1" 
+      value="2" 
+    >
+      Segment Repetititon
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="falloff calcOffS" 
+      type="range" 
+      min="0.1" 
+      max="1" 
+      step="0.1" 
+      value="0.8"
+    >
+      Segments Falloff
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="number-of-clusters calcOffS" 
+      type="range" 
+      min="1" 
+      max="8" 
+      step="1" 
+      value="4" 
+    >
+      Number of Clusters
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="space-between-clusters calcOffS" 
+      type="range" 
+      min="0" 
+      max="100" 
+      step="1" 
+      value="15"
+    >
+      Space Between Clusters
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="number-of-rings calcOffS" 
+      type="range" 
+      min="1" 
+      max="120" 
+      step="1" 
+      value="80"
+    >
+      Number of Rings
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="space-between-rings calcOffS" 
+      type="range" 
+      min="0" 
+      max="20" 
+      step="1" 
+      value="5"
+    >
+      Space Between Rings
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap">
+    <input 
+      class="starting-radius calcOffS" 
+      type="range" 
+      min="0" 
+      max="300" 
+      step="1" 
+      value="80" 
+    >
+      Starting Radius
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap fdr">
+    <input 
+      class="offset-by-iter calcOffS" 
+      type="checkbox"
+      checked="true"
+    >
+      Offset By Iteration?
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap fdr">
+    <input 
+      class="offset-by-random calcOffS" 
+      type="checkbox"
+      checked="true"
+    >
+      Offset By Random?
+    </input>
+  </div>
+
+  <div class="inputs-wrap__wrap fdr">
+    <input 
+      class="inputAnimate" 
+      type="checkbox"
+    >
+      animate? 
+    </input>
+  </div>
+
+</div>
