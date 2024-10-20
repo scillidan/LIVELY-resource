@@ -1,1 +1,0 @@
-Edit `scripts/calendar.js` line 9 `YYYY-MM-DDT00:00:00` to your birthday.
