@@ -1,6 +1,6 @@
 # LIVELY-resource
 
-See [lively-wallpaper.md](https://gist.github.com/scillidan/90bf6723b591132e2978b41d35f5e01c#file-lively-wallpaper-md) and [lively-wallpaper-cache.md](https://gist.github.com/scillidan/727f2d60c86edfd4bbd17cd96b9eeaec).
+See [lively-wallpaper.md](https://gist.github.com/scillidan/84b4783b85164c7f52f0eec90ae9167c) and [lively-wallpaper-cache.md](https://gist.github.com/scillidan/e8b63064cbeb3456018d5651b2c17a6d).
 
 I recommend using [gitzip](https://github.com/KinoLien/gitzip) to download single folder.
 
